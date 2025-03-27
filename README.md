@@ -3,7 +3,7 @@
 **Student Dashboard and Performance Tracker** is a web application designed for students to monitor their academic performance with ease. Built using React, Node, and SQL for the database, it offers an interactive and user-friendly interface to track progress and visualize data.
 
 > [!NOTE]  
-> This project is still in development, so there may be incomplete functionalities or customizations. Contributions and feedback are welcome!
+> This project is still in development, so there may be incomplete functionalities or customizations. Contributions and feedback are always welcome!
 
 ## 🚀 Getting Started
 
