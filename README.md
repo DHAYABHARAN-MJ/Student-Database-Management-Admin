@@ -9,7 +9,7 @@
 
 Clone the repository:
 
-```bash
+```basH
 git clone https://github.com/DHAYABHARAN-MJ/STUDENT-DATABASE-MANAGEMENT
 ```
 
